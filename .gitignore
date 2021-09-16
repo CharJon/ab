@@ -1,3 +1,9 @@
+# Local files
+data/local/
+
+# IntelliJ
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

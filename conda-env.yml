@@ -1,0 +1,13 @@
+# run: conda env create -n abs --file conda-env.yml
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - python=3.8
+  - pip
+  - pytest
+  - black
+  - jupyter
+  - pandas
+  - seaborn
+  - plotly
